@@ -36,4 +36,4 @@ While it's not as good as I want it to be, the forest tiles and water tiles occu
 
 Just for comparison, here is a completely random image
 
-https://github.com/martinblackd23d/ProceduralGeneration/blob/d1561aae69aec9df0906173f247bad9f3474cb66/random.PNG
+![](https://github.com/martinblackd23d/ProceduralGeneration/blob/d1561aae69aec9df0906173f247bad9f3474cb66/random.PNG?raw=true)
