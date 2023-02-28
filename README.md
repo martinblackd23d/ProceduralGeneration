@@ -34,6 +34,8 @@ Output
 
 While it's not as good as I want it to be, the forest tiles and water tiles occupy very distinct areas of the map
 
-Just for comparison, here is a completely random image
+Just for comparison, here is a completely randomized image
 
 ![](https://github.com/martinblackd23d/ProceduralGeneration/blob/d1561aae69aec9df0906173f247bad9f3474cb66/random.PNG?raw=true)
+
+The difference is obvious, showing that the algorithm does work to some extent.
